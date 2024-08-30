@@ -1,4 +1,14 @@
-## Welcome to GitHub Pages
+# Krish Padaliya's First CS193 Homework
+
+
+## A list of things I like about CS193
+
+- Very helpful class.
+- Provides a lot of information that is useful for side projects.
+- No exams!
+- Entertaining ice-breakers.
+
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
